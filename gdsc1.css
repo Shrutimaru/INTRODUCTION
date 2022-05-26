@@ -1,0 +1,8 @@
+.d1
+{
+    display: grid;
+    justify-content: center;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 200px;
+}
